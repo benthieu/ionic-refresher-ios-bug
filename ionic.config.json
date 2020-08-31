@@ -1,0 +1,7 @@
+{
+  "name": "refreshdebug",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
